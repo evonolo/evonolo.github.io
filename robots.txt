@@ -1,0 +1,42 @@
+# evonolo GmbH — https://www.evonolo.com
+#
+# Alle Suchmaschinen und KI-Crawler sind ausdruecklich zugelassen. Wer nicht
+# gelesen wird, wird nicht gefunden und nicht zitiert -- weder von Google noch
+# von einem Assistenten.
+
+User-agent: *
+Allow: /
+
+# Namentlich, damit die Zulassung eindeutig ist und nicht von der Auslegung
+# des Platzhalters oben abhaengt.
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://evonolo.github.io/sitemap-index.xml
