@@ -1,0 +1,43 @@
+# evonolo GmbH
+
+> evonolo aus Fieberbrunn in Tirol: individuelle Software für Betriebe, Loxone-Gebäudeautomation und Drohneninspektion für Bau, Landwirtschaft und Gemeinden.
+
+## evonolo Digital
+
+- [evonolo Digital](https://www.evonolo.com/digital/): Individuelle Unternehmenssoftware für Betriebe aus Bau, Handwerk und Industrie, entwickelt mit KI von evonolo aus Fieberbrunn in Tirol.
+- [Software-Ablöse](https://www.evonolo.com/software-abloese/): Eigene Software für Ihren Betrieb statt Branchensoftware. Läuft auf Ihrer Hardware, gehört Ihnen, ohne Lizenzgebühren für Ihre Software. Erstgespräch kostenlos.
+- [Individuelle Unternehmenssoftware](https://www.evonolo.com/leistungen/individualsoftware/): Unternehmenssoftware, die Ihren Abläufen folgt. Ohne Lizenzgebühren je Benutzer; Quellcode und Prozesswissen bleiben bei Ihnen.
+
+## Gebäudeautomation
+
+- [Gebäudeautomation](https://www.evonolo.com/automation/): Loxone-Gebäudeautomation und Netzwerk aus Fieberbrunn: Planung, Programmierung, Inbetriebnahme und Betreuung im Bezirk Kitzbühel und Umgebung.
+- [Umstieg von KNX auf Loxone](https://www.evonolo.com/leistungen/knx-abloese/): KNX-Anlage, für die Sie bei jeder Änderung den Errichter brauchen? Wir bauen auf Loxone um — bestehende Verkabelung bleibt erhalten.
+- [Netzwerk und Kamerasysteme](https://www.evonolo.com/leistungen/netzwerk-und-kamera/): Netzwerk, Serverschrank und Kamerasysteme — geplant, gemessen und dokumentiert übergeben, mit Nachweis für jede verlegte Leitung.
+
+## evonolo AIR
+
+- [evonolo AIR](https://www.evonolo.com/air/): Drohneninspektion, Thermografie und Vermessung aus der Luft in den Bezirken Kitzbühel, Kufstein und Zell am See, für Bau, Landwirtschaft und Gemeinden.
+- [Website von evonolo AIR](https://evonolo-air.com/): eigener Auftritt des Drohnenservice
+- [Dachüberprüfung und Dachvermessung](https://www.evonolo.com/leistungen/dachueberpruefung/): Maßhaltiges Aufmaß des Dachs aus der Luft: Orthofoto und 3D-Modell mit eingezeichneten Maßen — ohne Gerüst und ohne Hubsteiger.
+- [Thermografische PV-Anlagenüberprüfung](https://www.evonolo.com/leistungen/pv-anlagenpruefung/): Hotspots und ausgefallene Strings finden, ohne die Anlage abzuschalten: thermografische Befliegung mit Prüfbericht auf Modulebene.
+- [Gebäudethermografie kommunaler Gebäude](https://www.evonolo.com/leistungen/gebaeudethermografie/): Thermografie kommunaler Gebäude aus der Luft: Wärmebilder, Prioritätenliste der Schwachstellen und Empfehlung, wo genauer hinzusehen ist.
+- [PV-Potenzialanalyse](https://www.evonolo.com/leistungen/pv-potenzialanalyse/): Welches Dach trägt wie viel PV? Fläche, Neigung, Ausrichtung und Verschattung je Dachfläche, dazu eine Reihung nach Eignung.
+- [Multispektralbefliegung](https://www.evonolo.com/leistungen/multispektralbefliegung/): Vegetationskarten für Forst, Landwirtschaft und Gemeinden: Veränderungen erkennen, bevor der Schaden sichtbar ist. Übergabe als GeoTIFF.
+
+## Referenzen
+
+- [Von KNX auf Loxone: Umbau im Bezirk Kitzbühel](https://www.evonolo.com/referenzen/knx-abloese-privathaus/): Eine Anlage, die der Eigentümer selbst anpassen kann — bei erhaltener Bestandsverkabelung.
+- [Netzwerk und Kameras in einem Wohnhaus](https://www.evonolo.com/referenzen/netzwerk-und-sicherheit-wohnhaus/): Eine gemessene und dokumentierte Installation — vom Verteiler bis zur Außenkamera.
+
+## Beiträge
+
+- [evonolo AIR beim Traumstart ausgezeichnet](https://www.evonolo.com/beitraege/traumstart-2026/): Der Geschäftsbereich evonolo AIR wurde 2026 beim Startup-Wettbewerb Traumstart prämiert. Die Tiroler Tageszeitung berichtete darüber.
+- [Halogen raus, RGBW rein: Loxone-Lichtsteuerung](https://www.evonolo.com/beitraege/halogen-raus-rgbw-rein/): In einem Wohnhaus im Raum München ersetzen 24-Volt-RGBW-Spots von Loxone die Halogenbeleuchtung. Jeder Spot einzeln ansteuerbar.
+
+## Über uns und Kontakt
+
+- [Über uns: die Gründer aus dem Bezirk Kitzbühel](https://www.evonolo.com/ueber-uns/): Zwei Gründer aus dem Bezirk Kitzbühel: einer kommt vom Kran, einer vom Code. Wer hinter der evonolo GmbH steht und wie wir arbeiten.
+- E-Mail: office@evonolo.com
+- Telefon: +43 676 852573201
+- Anschrift: evonolo GmbH, Neuhausen 12, 6391 Fieberbrunn, Österreich
+- [Impressum](https://www.evonolo.com/impressum/)

@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:evonolo GmbH
+N:;evonolo GmbH;;;
+ORG:evonolo GmbH
+EMAIL;TYPE=INTERNET,WORK:office@evonolo.com
+TEL;TYPE=WORK,VOICE:+43676852573201
+ADR;TYPE=WORK:;;Neuhausen 12;Fieberbrunn;;6391;Österreich
+URL:https://www.evonolo.com
+END:VCARD
