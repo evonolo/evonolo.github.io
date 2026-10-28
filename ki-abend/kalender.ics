@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//evonolo GmbH//KI-Abend//DE
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ki-abend-2026-11-24@evonolo.com
+DTSTAMP:20261028T113505Z
+DTSTART:20261124T173000Z
+DTEND:20261124T190000Z
+SUMMARY:KI-Abend: KI im Unternehmen – Was heute schon möglic
+ h ist
+LOCATION:Salvena Hopfgarten\, Hopfgarten im Brixental
+DESCRIPTION:Informationsabend von evonolo\, Eintritt frei. c
+ a. 90 Minuten inklusive Fragerunde. Details: https://www.evo
+ nolo.com/ki-abend/
+URL:https://www.evonolo.com/ki-abend/
+END:VEVENT
+END:VCALENDAR
